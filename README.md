@@ -1,5 +1,7 @@
 # park-api
-Liityntäpysäköintiä varten
-
+Käytetyt APIt:  
+HSL  
+Liityntäpysäköinti
+  
 # Demo
 https://users.metropolia.fi/~meteg/Projekti/
